@@ -16,3 +16,20 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/target/classes/application.properties
+/target/classes/application.yml
+/target/classes/com/riteship/campus/recruitment/systems/application/components/Connect.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/classes/com/riteship/campus/recruitment/systems/application/RiteShipCampusRecruitmentSystemsOriginalApplication.class
+/target/test-classes/com/com/riteship/campus/recruitment/systems/standalone/application/RiteShipCampusRecruitmentSystemsOriginalApplicationTests.class
+/target/classes/com/riteship/campus/recruitment/systems/application/controller/RIteShipLoginController.class
+/target/classes/com/riteship/campus/recruitment/systems/application/config/RiteShipMvcConfiguration.class
+/target/classes/com/riteship/campus/recruitment/systems/application/controller/RiteShipRestController.class
+/target/classes/com/riteship/campus/recruitment/systems/application/ServletInitializer.class
+/target/test-classes/com/com/riteship/campus/recruitment/systems/standalone/application/TestRiteShipCampusRecruitmentSystemsOriginalStandAloneApplication.class
+/target/classes/com/riteship/campus/recruitment/systems/application/controller/UploadCollege.class
+/target/classes/com/riteship/campus/recruitment/systems/application/controller/UploadCompany.class
+/target/classes/com/riteship/campus/recruitment/systems/application/config/WebMVCConfiguration.class
